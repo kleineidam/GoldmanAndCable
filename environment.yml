@@ -12,6 +12,7 @@ dependencies:
   #=3.1*
   - scipy
   - brian2
+  - ipywidgets
   - jupyter_contrib_nbextensions
   - ipympl
   #- pip:
