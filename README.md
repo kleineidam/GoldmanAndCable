@@ -1,4 +1,4 @@
-# Student Course: The Goldmann equation and the cable model
+# Student Course: The Goldman equation and the cable model
 
 This course is presented as a Jupyter notebook, that you can run and modify.
 
