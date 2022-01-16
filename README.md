@@ -3,7 +3,7 @@
 This course is presented as a Jupyter notebook (![Course.ipynb](https://github.com/moritz-s/GoldmanAndCable/blob/main/Course.ipynb)).
 
 - Start an interactive Notebook here:
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/moritz-s/GoldmannAndCable/HEAD?labpath=Course.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/moritz-s/GoldmanAndCable/HEAD?labpath=Course.ipynb)
   This online service is not very fast but works fine. In some cases the
   service needs to rebuild the environment which may take some minutes. When the
   link is used again at a later time it loads faster. A non-interactive version
